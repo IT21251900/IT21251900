@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Reg Number : IT21251900
+Git Username : IT21251900
 <!--
 **IT21251900/IT21251900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
